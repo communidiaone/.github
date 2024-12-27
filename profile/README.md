@@ -5,7 +5,7 @@
 > *Sosyal medyanın geleceğini yeniden tanımlıyoruz*
 
 ## 📱 Proje Hakkında
-
+Hey, if you see it, Github may finally gave my organization back. Good job, Github!
 **Durum:** Tasarım & Planlama Aşaması  
 **Bölge:** 🇹🇷 Türkiye
 
